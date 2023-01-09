@@ -1,4 +1,4 @@
-# AWS S3 uploader
+# My DX feed
 Uploads passed directory hierarchy to S3 bucket, optionally removing existing data before upload.
 
 ## Running application
